@@ -35,3 +35,13 @@ Usage:
 - Windows:
   - ``python.exe kasiski.py <ecnrypted_text>``
   - ``python.exe ftable.py <key_characters>``
+
+## Monoalphabet algorithm
+
+This algorithm is a tecnhique of encryption that uses substitution with one alphabet (Caesar's tecnhique) and Polybios algorithm changing default parameters.
+
+Usage:
+- Linux:
+  - ``python3 ./monoalfabeto.py <action> <file_to_encrypt/file_to_decrypt> <key>(int)``
+- Windows:
+  - ``python.exe monoalfabeto.py <action> <file_to_encrypt/file_to_decrypt> <key>(int)``
