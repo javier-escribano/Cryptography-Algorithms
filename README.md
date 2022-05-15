@@ -30,10 +30,10 @@ In this repository there will be two files, *kasiski.py* and *ftable.py*. The fi
 
 Usage:
 - Linux:
-  - ``python3 ./kasiski.py <ecnrypted_text>``
+  - ``python3 ./kasiski.py <encrypted_text>``
   - ``python3 ./ftable.py <key_characters>`` 
 - Windows:
-  - ``python.exe kasiski.py <ecnrypted_text>``
+  - ``python.exe kasiski.py <encrypted_text>``
   - ``python.exe ftable.py <key_characters>``
 
 ## Monoalphabet algorithm
