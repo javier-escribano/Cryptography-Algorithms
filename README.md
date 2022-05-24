@@ -2,7 +2,7 @@
 
 This repository will host some cryptography algorithms that belong to different types of cypher.
 
-## Vigenere
+## Vigenère
 
 Vigenere's algorithm works by substitution operations performed by some rounds of permutations depending on the key and the letters in them. In this particular case, the algorithm will only work with the 26 capital letters in the alphabet, no special characters are concerned in the processing stage of the algorithm.
 
